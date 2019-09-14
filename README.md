@@ -18,6 +18,6 @@
 </br>
   
 <br>
-<img src="./PetSociety.png" alt="Pet Society" width="200" height="128">
+<img src="./PetSociety.png" alt="Pet Society" width="180" height="128">
 <b>Pet Society-</b> was a social-network game developed by Playfish that could be played on Facebook. The game ranked as one of the most popular Facebook applications. Players could design their pets by choosing genders, names, colors and altering appearances.
 </br>
