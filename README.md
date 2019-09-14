@@ -12,7 +12,7 @@
 </br>
   
 <br>
-<img width="400" src="./Wildones.png" alt="Wild ones">
+<img width="400" src="./Wildones.jpg" alt="Wild ones">
 </br>
   
 <br>
