@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img  src="./logo.png" alt="EA GAMES" width="50" height="128">
+  <img  src="./logo.png" alt="EA GAMES" width="128" height="128">
   <br>
   <br>
 </p>
