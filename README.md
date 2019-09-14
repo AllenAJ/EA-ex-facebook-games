@@ -1,6 +1,7 @@
 <p align="center">
   <br>
   <img  src="./logo.png" alt="EA GAMES" width="128" height="128">
+  Electronic Arts Inc. is an American video game company headquartered in Redwood City, California. It is the second-largest gaming company in the Americas and Europe by revenue and market capitalization after Activision Blizzard and ahead of Take-Two Interactive and Ubisoft as of March 2018.
   <br>
   <br>
 </p>
