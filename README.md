@@ -23,3 +23,8 @@
 <img src="./PetSociety.png" alt="Pet Society" width="180" height="128">
 <b>Pet Society-</b> was a social-network game developed by Playfish that could be played on Facebook. The game ranked as one of the most popular Facebook applications. Players could design their pets by choosing genders, names, colors and altering appearances.
 </br>
+
+# How much did these game make?🤔-
+<b>Pet Society-</b> The game was launched August 8, 2008 by Playfish and at its "peak had 50 million monthly players, 5 million daily players and made as much as <b>$100,000</b> a day by selling in-game items..
+</br>
+
