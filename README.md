@@ -39,7 +39,6 @@ THAT IS <b>$370,000(2,62,81,359.00 Indian Rupee)</b> a day!!!!!
 
 <br>
 
-# EA's Deprecated GAMES LIST-
 # EA shuts down "older" Facebook games
 </br>
 EA has announced its intention to shut down Facebook games The Sims Social, SimCity Social and Pet Society.
