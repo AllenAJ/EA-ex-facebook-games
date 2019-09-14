@@ -5,4 +5,4 @@
   <br>
 </p>
 
-# EA GAMES [![Awesome]()]
+# EA GAMES LIST-
