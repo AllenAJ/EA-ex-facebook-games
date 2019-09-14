@@ -33,6 +33,6 @@
 <b>The Sims Social-</b>"peak had 30 million monthly players, 3 million daily players and made as much as <b>$80,000</b> a day by selling in-game items..
 </br>
 
-<b>
+<br>
 THAT IS <b>$370,000(2,62,81,359.00 Indian Rupee)</b> a day!!!!!
 </br>
