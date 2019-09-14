@@ -27,4 +27,7 @@
 # How much did these game make?🤔-
 <b>Pet Society-</b> The game was launched August 8, 2008 by Playfish and at its "peak had 50 million monthly players, 5 million daily players and made as much as <b>$100,000</b> a day by selling in-game items..
 </br>
-
+<b>The Sims Social-</b>"peak had 64 million monthly players, 6.4 million daily players and made as much as <b>$190,000</b> a day by selling in-game items..
+</br>
+<b>The Sims Social-</b>"peak had 30 million monthly players, 3 million daily players and made as much as <b>$80,000</b> a day by selling in-game items..
+</br>
