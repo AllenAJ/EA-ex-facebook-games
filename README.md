@@ -16,5 +16,5 @@
 </br>
   
 <br>
-<img src="./PetSociety.png" alt="Pet Society" width="138" height="128">
+<img src="./PetSociety.png" alt="Pet Society" width="168" height="128">
 </br>
