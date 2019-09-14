@@ -5,7 +5,7 @@
   <br>
 </p>
 
-# EA GAMES LIST-
+# EA's Deprecated GAMES LIST-
 
 <br>
 <img src="./Sims.png" alt="The Sims Social" width="128" height="128">
